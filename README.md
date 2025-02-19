@@ -1,8 +1,6 @@
 # Hi 👋! I'm Barnard
 I'm currently a 3rd year software engineering student and working on a data engineering zoomcamp, as well as learn the neccisarry skills(excell, python, SQL, Power/Tableau) needed for a data analyst role
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jzitnik-dev&show_icons=true&theme=dark)
-
 
 
 ## Socials:
