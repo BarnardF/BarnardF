@@ -1,5 +1,5 @@
 # Hi 👋! I'm Barnard
-I'm currently a 3rd year software engineering student and working on a data engineering zoomcamp, as well as learn the necessary skills(excell, python, SQL, Power/Tableau) needed for a data analyst role
+3rd year Computer Science student with a passion for software engineering. I enjoy learning about new technologies and experimenting with them through hands-on projects.
 
 
 
