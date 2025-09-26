@@ -1,5 +1,5 @@
 # Hi 👋! I'm Barnard
-3rd year Computer Science student with a passion for software engineering. I enjoy learning about new technologies and experimenting with them through hands-on projects.
+3rd year Computer Science student who likes experimenting and learning new things
 
 
 
