@@ -1,6 +1,8 @@
 # 💫 About Me:
 3rd year Computer Science student who likes experimenting and learning new things
 
+---
+[![](https://visitcount.itsvg.in/api?id=BarnardF&icon=10&color=10)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
