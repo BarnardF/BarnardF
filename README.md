@@ -16,4 +16,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BarnardF&icon=10&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# Stats
+![BarnardF's Stats](https://github-readme-stats.vercel.app/api?username=BarnardF&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+
