@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 3rd year Computer Science student who likes experimenting and learning new things
 
 ## 🌐 Socials:
