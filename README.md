@@ -1,6 +1,9 @@
 # About Me:
 3rd year Computer Science student who likes experimenting and learning new things
 
+## 📝 My CV:
+[View my CV](CV_Barnard_Fourie.pdf)
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barnardfourie15@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/barnard-fourie)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cheesehutt)
 # 📊 Stats:
