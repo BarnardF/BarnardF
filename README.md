@@ -1,7 +1,5 @@
 # About Me:
-Junior Backend Developer and Software Engineering graduate with experience building RESTful APIs, working with
-relational databases, and developing data-driven backend services. Comfortable with SQL, backend logic, and cloudbased systems, with hands-on project experience in API development, automation, and real-world data pipelines. Eager to
-work on production systems and grow in modern cloud and AI-driven environments.
+Software Engineering graduate with experience building RESTful APIs, working with relational databases, and developing data-driven backend services. Comfortable with SQL, backend logic, and cloudbased systems, with hands-on project experience in API development, automation, and real-world data pipelines. Eager to work on production systems and grow in modern cloud and AI-driven environments.
 
 
 ## 📝 My CV:
