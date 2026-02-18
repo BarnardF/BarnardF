@@ -1,9 +1,10 @@
 # About Me:
-Software Engineering graduate with experience building RESTful APIs, working with relational databases, and developing data-driven backend services. Comfortable with SQL, backend logic, and cloudbased systems, with hands-on project experience in API development, automation, and real-world data pipelines. Eager to work on production systems and grow in modern cloud and AI-driven environments.
+Software Engineering graduate with hands-on experience building backend systems, automation tools, and databasedriven applications using Python, JavaScript, PHP, and SQL. Strong foundation in problem-solving, debugging, and building
+scalable data workflows. Seeking an entry-level software or IT role to contribute and grow within a structured technical team
 
 
 ## 📝 My CV:
-[View my CV](https://drive.google.com/file/d/1qvt1YxXcV91Gq8axGVcmD6JeUKoSu9xp/view?usp=drive_link)
+[View my CV](https://drive.google.com/file/d/12FBLkKFfGhrDEuGbIkDEvy4hDWaHY8uy/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barnardfourie15@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/barnard-fourie)
