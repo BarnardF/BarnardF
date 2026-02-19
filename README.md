@@ -1,6 +1,5 @@
 # About Me:
-Software Engineering graduate with hands-on experience building backend systems, automation tools, and databasedriven applications using Python, JavaScript, PHP, and SQL. Strong foundation in problem-solving, debugging, and building
-scalable data workflows. Seeking an entry-level software or IT role to contribute and grow within a structured technical team
+Software Engineering graduate with hands on experience building backend systems, automation tools, and database driven applications using Python, JavaScript, PHP, and SQL. Built an automated ETL pipeline for marketplace data, developed an admin dashboard with role based access control, and collaborated with a team using GitHub for version control. Seeking a junior software role to contribute to meaningful projects and continue growing within a structured technical team
 
 
 ## 📝 My CV:
